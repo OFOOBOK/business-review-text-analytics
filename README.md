@@ -147,7 +147,7 @@ Based on the findings, the business should consider the following actions:
 ## 7. Project Files
 
 - CIS617_FINAL_CLEAN.ipynb: Full analysis notebook  
-- reviews.csv: Dataset used for analysis  
+- Data Collection: Reviews were retrieved dynamically from Google Maps using SerpAPI 
 - images/: Directory containing charts and visualizations  
 
 ---
