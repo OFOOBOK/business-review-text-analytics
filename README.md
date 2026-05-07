@@ -31,8 +31,6 @@ Proper data preparation ensures that the analysis results are accurate and relia
 ### 3.2 Distribution of Ratings
 
 
-<img width="851" height="558" alt="Untitled" src="https://github.com/user-attachments/assets/8a181b64-9876-41a6-b67c-eb68383cea55" />
-
 
 ![Distribution of Ratings](images/ratings.png)
 
